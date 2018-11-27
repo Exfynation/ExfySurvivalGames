@@ -1,0 +1,5 @@
+name: ExfySurvivalGames
+authors: [anhei, crowed]
+version: 1.0
+main: de.exfy.survivalgames.SurvivalGames
+depend: [GameLib, ExfyCore]
